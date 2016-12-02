@@ -2,7 +2,8 @@
 layout: default
 ---
 
-<div class="avatar"></div>
+![avatar](avatar.jpg)
+
 ## Kirby
 
 - - -
