@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Sahitya');
+
 /**
  * Set up a decent box model on the root element
  */
@@ -14,6 +16,19 @@ html {
 *, ::before, ::after {
   box-sizing: inherit;
 } 
+
+body {
+  color: #444;
+  font-family: Sahitya arial;
+}
+
+h1, h2, h3, h4, h5 {
+  color: #000;
+}
+
+a {
+  color: #28c;
+}
 
 .main {
   margin: 20px;
