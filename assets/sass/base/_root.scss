@@ -14,3 +14,24 @@ html {
 *, ::before, ::after {
   box-sizing: inherit;
 } 
+
+.main {
+  margin: 20px;
+}
+
+img[alt=avatar] {
+  border-radius: 50%;
+  border: 5px solid #000;
+  box-shadow: 0 3px 4px rgba(0,0,0,0.3);
+  width: 138px;
+  height: 138px;
+  display: block;
+  margin: auto;
+}
+h1 {
+  text-align: center;
+}
+
+h1 + p {
+  text-align: center;
+}
