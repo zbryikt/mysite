@@ -4,7 +4,7 @@ layout: default
 
 ![avatar](avatar.jpg)
 
-## Kirby
+# Kirby
 
 A Nintendo Character
 
